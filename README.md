@@ -1,5 +1,2 @@
 # thedogrescuers
-Final Assigment - WEb technology
-
-
-zip file
+Final Assigment - Web Technology
